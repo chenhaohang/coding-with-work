@@ -1,0 +1,4 @@
+1.在ZDM for CAD利用“getdm”命令提取出断面txt文件；
+2.修改文件名为“original.txt”,并删去txt首行的标识，首行留空对转换无影响；
+3.再同目录下运行“zdm2hec.py”；
+4.生成“final.txt”。
